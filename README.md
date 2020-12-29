@@ -4,7 +4,7 @@ I don't think I need to explain the classic setup... Download files and upload y
 
  
 # Things to be aware of
-All texts on the website are in any language file in the "languages" folder.
+* All texts on the website are in any language file in the "languages" folder.
 
 
 # Theme View
