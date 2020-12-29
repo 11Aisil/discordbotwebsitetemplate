@@ -10,6 +10,5 @@
 <br>
 
 <h1>Theme View</h1>
-![alt text](https://github.com/devmdeniz/discordbotwebsitetemplate/blob/main/ifr/ss1.png)
-![alt text](https://github.com/devmdeniz/discordbotwebsitetemplate/blob/main/ifr/ss1.png?raw=true)
 </html>
+![alt text](https://github.com/devmdeniz/discordbotwebsitetemplate/blob/main/ifr/ss1.png)
